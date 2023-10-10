@@ -94,7 +94,7 @@ section:nth-child(2n + 2) {
 }
 
 section .section-image {
-	width: calc(45rem + 5vw);
+	width: calc(38rem + 5vw);
 }
 
 .section-texts .section-title {
@@ -158,7 +158,7 @@ a:hover {
 	}
 
 	section:last-child .section-image {
-		width: 65rem;
+		width: 60rem;
 	}
 
 	section .section-texts {
@@ -170,7 +170,7 @@ a:hover {
 	}
 
 	section .section-image {
-		width: calc(55rem + 5vw);
+		width: calc(50rem + 5vw);
 	}
 
 	section .section-texts {
