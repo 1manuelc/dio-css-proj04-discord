@@ -1,5 +1,5 @@
 # Clone da página de boas vindas do Discord
-NO fim do módulo de Responsividade na Formação CSS Web Developer a professora trouxe o desafio de 
+No fim do módulo de Responsividade na Formação CSS Web Developer a professora trouxe o desafio de 
 clonar a página de boas vindas do Discord com HTML e CSS de forma responsiva para Desktop e Mobile.
 <br /><br />
 Consegui compor o desafio com imagens e fontes já predefinidas em um modelo de rascunho no Figma oferecido
