@@ -5,4 +5,4 @@ clonar a página de boas vindas do Discord com HTML e CSS de forma responsiva pa
 Consegui compor o desafio com imagens e fontes já predefinidas em um modelo de rascunho no Figma oferecido
 pela plataforma, acrescentando o layout responsivo feito inteiramente com Flexbox no CSS.
 <br /><br />
-[Você pode ver deploy (resultado final) clicando aqui.](https://1manuelc.github.io/dio-css-projeto04/)
+[Você pode ver deploy (resultado final) clicando aqui.](https://1manuelc.github.io/dio-css-proj04-discord/)
